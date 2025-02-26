@@ -1,2 +1,3 @@
-# Secure-Data-Hiding-in-Image-Using-Steganography
-Secure Data Hiding in Image Using Steganography
+Use the the following bash script to install the library
+
+pip install pillow pycryptodome
